@@ -1,0 +1,15 @@
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.exe
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.deps.json
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.runtimeconfig.json
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.dll
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.pdb
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.AssemblyInfoInputs.cache
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.AssemblyInfo.cs
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.dll
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\refint\EjercicioSesion2.dll
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.pdb
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.genruntimeconfig.cache
+C:\Users\garci\source\repos\EjercicioSesion2\EjercicioSesion2\obj\Debug\net6.0\ref\EjercicioSesion2.dll
